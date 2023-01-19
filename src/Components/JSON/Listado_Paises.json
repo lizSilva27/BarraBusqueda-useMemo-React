@@ -1,0 +1,590 @@
+[
+ {
+  "id": 1,
+  "title": "Afganistán - Kabul"
+ },
+ {
+  "id": 2,
+  "title": "Albania - Tirana"
+ },
+ {
+  "id": 3,
+  "title": "Alemania - Berlín"
+ },
+ {
+  "id": 4,
+  "title": "Andorra - Andorra la Vieja"
+ },
+ {
+  "id": 5,
+  "title": "Angola - Luanda"
+ },
+ {
+  "id": 6,
+  "title": "Antigua y Barbuda - Saint John"
+ },
+ {
+  "id": 7,
+  "title": "Arabia Saudita - Riad"
+ },
+ {
+  "id": 8,
+  "title": "Argelia - Argel"
+ },
+ {
+  "id": 9,
+  "title": "Argentina - Buenos Aires"
+ },
+ {
+  "id": 10,
+  "title": "Armenia - Ereván"
+ },
+ {
+  "id": 11,
+  "title": "Australia - Canberra"
+ },
+ {
+  "id": 12,
+  "title": "Austria - Viena"
+ },
+ {
+  "id": 13,
+  "title": "Azerbaiyán - Bakú"
+ },
+ {
+  "id": 14,
+  "title": "Bahamas  - Nassau"
+ },
+ {
+  "id": 15,
+  "title": "Bahrein - Manama"
+ },
+ {
+  "id": 16,
+  "title": "Bangladesh - Daca"
+ },
+ {
+  "id": 17,
+  "title": "Barbados - Bridgetown"
+ },
+ {
+  "id": 18,
+  "title": "Belarús - Minsk"
+ },
+ {
+  "id": 19,
+  "title": "Bélgica - Bruselas"
+ },
+ {
+  "id": 20,
+  "title": "Belice - Belmopán"
+ },
+ {
+  "id": 21,
+  "title": "Benin - Porto Novo"
+ },
+ {
+  "id": 22,
+  "title": "Bhután - Timbu"
+ },
+ {
+  "id": 23,
+  "title": "Bolivia  - Sucre"
+ },
+ {
+  "id": 24,
+  "title": "Bosnia y Herzegovina - Sarajevo"
+ },
+ {
+  "id": 25,
+  "title": "Botswana - Gaborone"
+ },
+ {
+  "id": 26,
+  "title": "Brasil - Brasilia"
+ },
+ {
+  "id": 27,
+  "title": "Brunei Darussalam - Bandar Seri Begawan"
+ },
+ {
+  "id": 28,
+  "title": "Bulgaria - Sofía"
+ },
+ {
+  "id": 29,
+  "title": "Burkina Faso - Uagadugú"
+ },
+ {
+  "id": 30,
+  "title": "Burundi - Buyumbura"
+ },
+ {
+  "id": 31,
+  "title": "Cabo Verde - Praia"
+ },
+ {
+  "id": 32,
+  "title": "Camboya - Phnom Penh"
+ },
+ {
+  "id": 33,
+  "title": "Camerún - Yaundé"
+ },
+ {
+  "id": 34,
+  "title": "Canadá - Ottawa"
+ },
+ {
+  "id": 35,
+  "title": "Chad - Yamena"
+ },
+ {
+  "id": 36,
+  "title": "Chequia -  Praga"
+ },
+ {
+  "id": 37,
+  "title": "Chile - Santiago de Chile"
+ },
+ {
+  "id": 38,
+  "title": "China - Beijing"
+ },
+ {
+  "id": 39,
+  "title": "Chipre - Nicosia"
+ },
+ {
+  "id": 40,
+  "title": "Colombia - Bogotá"
+ },
+ {
+  "id": 41,
+  "title": "Comoras  - Moroni"
+ },
+ {
+  "id": 42,
+  "title": "Congo - Brazzaville"
+ },
+ {
+  "id": 43,
+  "title": "Costa Rica - San José"
+ },
+ {
+  "id": 44,
+  "title": "Côte d’Ivoire - Yamusukro"
+ },
+ {
+  "id": 45,
+  "title": "Croacia - Zagreb"
+ },
+ {
+  "id": 46,
+  "title": "Cuba - La Habana"
+ },
+ {
+  "id": 47,
+  "title": "Dinamarca - Copenhague"
+ },
+ {
+  "id": 48,
+  "title": "Djibouti - Djibouti"
+ },
+ {
+  "id": 49,
+  "title": "Dominica - Roseau"
+ },
+ {
+  "id": 50,
+  "title": "Ecuador  - Quito"
+ },
+ {
+  "id": 51,
+  "title": "Egipto - El Cairo"
+ },
+ {
+  "id": 52,
+  "title": "El Salvador - San Salvador"
+ },
+ {
+  "id": 53,
+  "title": "Emiratos Árabes Unidos - Abu Dabi"
+ },
+ {
+  "id": 54,
+  "title": "Eritrea - Asmara"
+ },
+ {
+  "id": 55,
+  "title": "Eslovaquia - Bratislava"
+ },
+ {
+  "id": 56,
+  "title": "Eslovenia - Liubliana"
+ },
+ {
+  "id": 57,
+  "title": "España - Madrid"
+ },
+ {
+  "id": 58,
+  "title": "Estados Unidos de América - Washington D.C."
+ },
+ {
+  "id": 59,
+  "title": "Estonia - Tallin"
+ },
+ {
+  "id": 60,
+  "title": "Eswatini - Mbabane"
+ },
+ {
+  "id": 61,
+  "title": "Etiopía - Addis Abeba"
+ },
+ {
+  "id": 62,
+  "title": "Federación de Rusia  - Moscú"
+ },
+ {
+  "id": 63,
+  "title": "Fiji - Suva"
+ },
+ {
+  "id": 64,
+  "title": "Filipinas - Manila"
+ },
+ {
+  "id": 65,
+  "title": "Finlandia - Helsinki"
+ },
+ {
+  "id": 66,
+  "title": "Francia - París"
+ },
+ {
+  "id": 67,
+  "title": "Gabón  - Libreville"
+ },
+ {
+  "id": 68,
+  "title": "Gambia - Banjul"
+ },
+ {
+  "id": 69,
+  "title": "Georgia - Tbilisi; Tiflis"
+ },
+ {
+  "id": 70,
+  "title": "Ghana - Accra"
+ },
+ {
+  "id": 71,
+  "title": "Granada - St. George’s"
+ },
+ {
+  "id": 72,
+  "title": "Grecia - Atenas"
+ },
+ {
+  "id": 73,
+  "title": "Guatemala - Ciudad de Guatemala"
+ },
+ {
+  "id": 74,
+  "title": "Guinea - Conakry"
+ },
+ {
+  "id": 75,
+  "title": "Guinea Ecuatorial - Malabo"
+ },
+ {
+  "id": 76,
+  "title": "Guinea-Bissau - Bissau"
+ },
+ {
+  "id": 77,
+  "title": "Guyana - Georgetown"
+ },
+ {
+  "id": 78,
+  "title": "Haití - Puerto Príncipe"
+ },
+ {
+  "id": 79,
+  "title": "Honduras - Tegucigalpa"
+ },
+ {
+  "id": 80,
+  "title": "Hungría - Budapest"
+ },
+ {
+  "id": 81,
+  "title": "India  - Nueva Delhi"
+ },
+ {
+  "id": 82,
+  "title": "Indonesia - Yakarta"
+ },
+ {
+  "id": 83,
+  "title": "Irán - Teherán"
+ },
+ {
+  "id": 84,
+  "title": "Iraq  - Bagdad"
+ },
+ {
+  "id": 85,
+  "title": "Irlanda - Dublín"
+ },
+ {
+  "id": 86,
+  "title": "Islandia - Reykjavik"
+ },
+ {
+  "id": 87,
+  "title": "Islas Cook  - Avarua"
+ },
+ {
+  "id": 88,
+  "title": "Islas Marshall  - Majuro"
+ },
+ {
+  "id": 89,
+  "title": "Islas Salomón  - Honiara"
+ },
+ {
+  "id": 90,
+  "title": "Israel - "
+ },
+ {
+  "id": 91,
+  "title": "Italia - Roma"
+ },
+ {
+  "id": 92,
+  "title": "Jamaica - Kingston"
+ },
+ {
+  "id": 93,
+  "title": "Japón (el) - Tokio"
+ },
+ {
+  "id": 94,
+  "title": "Jordania - Ammán"
+ },
+ {
+  "id": 95,
+  "title": "Kazajstán - Nursultán"
+ },
+ {
+  "id": 96,
+  "title": "Kenya - Nairobi"
+ },
+ {
+  "id": 97,
+  "title": "Kirguistán - Biskek"
+ },
+ {
+  "id": 98,
+  "title": "Kiribati - Tarawa"
+ },
+ {
+  "id": 99,
+  "title": "Kuwait - Kuwait"
+ },
+ {
+  "id": 100,
+  "title": "Lesotho - Maseru"
+ },
+ {
+  "id": 101,
+  "title": "Letonia - Riga"
+ },
+ {
+  "id": 102,
+  "title": "Líbano  - Beirut"
+ },
+ {
+  "id": 103,
+  "title": "Liberia - Monrovia"
+ },
+ {
+  "id": 104,
+  "title": "Libia - Trípoli"
+ },
+ {
+  "id": 105,
+  "title": "Liechtenstein - Vaduz"
+ },
+ {
+  "id": 106,
+  "title": "Lituania - Vilna"
+ },
+ {
+  "id": 107,
+  "title": "Luxemburgo - Luxemburgo"
+ },
+ {
+  "id": 108,
+  "title": "Madagascar - Antananarivo"
+ },
+ {
+  "id": 109,
+  "title": "Malasia - Kuala Lumpur"
+ },
+ {
+  "id": 110,
+  "title": "Malawi - Lilongwe"
+ },
+ {
+  "id": 111,
+  "title": "Maldivas - Malé"
+ },
+ {
+  "id": 112,
+  "title": "Malí - Bamako"
+ },
+ {
+  "id": 113,
+  "title": "Malta - La Valetta"
+ },
+ {
+  "id": 114,
+  "title": "Marruecos - Rabat"
+ },
+ {
+  "id": 115,
+  "title": "Mauricio - Port Louis"
+ },
+ {
+  "id": 116,
+  "title": "Mauritania - Nuakchot"
+ },
+ {
+  "id": 117,
+  "title": "México - Ciudad de México"
+ },
+ {
+  "id": 118,
+  "title": "Micronesia - Palikir"
+ },
+ {
+  "id": 119,
+  "title": "Mónaco - Mónaco"
+ },
+ {
+  "id": 120,
+  "title": "Mongolia - Ulaanbaatar"
+ },
+ {
+  "id": 121,
+  "title": "Montenegro - Podgorica"
+ },
+ {
+  "id": 122,
+  "title": "Mozambique - Maputo"
+ },
+ {
+  "id": 123,
+  "title": "Myanmar - Nay Pyi Taw"
+ },
+ {
+  "id": 124,
+  "title": "Namibia - Windhoek"
+ },
+ {
+  "id": 125,
+  "title": "Nauru - Yaren"
+ },
+ {
+  "id": 126,
+  "title": "Nepal - Katmandú"
+ },
+ {
+  "id": 127,
+  "title": "Nicaragua - Managua"
+ },
+ {
+  "id": 128,
+  "title": "Níger - Niamey"
+ },
+ {
+  "id": 129,
+  "title": "Nigeria - Abuya"
+ },
+ {
+  "id": 130,
+  "title": "Niue - Alofi"
+ },
+ {
+  "id": 131,
+  "title": "Noruega - Oslo"
+ },
+ {
+  "id": 132,
+  "title": "Nueva Zelandia - Wellington"
+ },
+ {
+  "id": 133,
+  "title": "Omán - Mascate"
+ },
+ {
+  "id": 134,
+  "title": "Países Bajos  - Ámsterdam"
+ },
+ {
+  "id": 135,
+  "title": "Pakistán  - Islamabad"
+ },
+ {
+  "id": 136,
+  "title": "Palau - Melekeok"
+ },
+ {
+  "id": 137,
+  "title": "Panamá - Panamá"
+ },
+ {
+  "id": 138,
+  "title": "Papua Nueva Guinea - Port Moresby"
+ },
+ {
+  "id": 139,
+  "title": "Paraguay - Asunción"
+ },
+ {
+  "id": 140,
+  "title": "Perú  - Lima"
+ },
+ {
+  "id": 141,
+  "title": "Polonia - Varsovia"
+ },
+ {
+  "id": 142,
+  "title": "Portugal - Lisboa"
+ },
+ {
+  "id": 143,
+  "title": "Qatar - Doha"
+ },
+ {
+  "id": 144,
+  "title": "Reino Unido de Gran Bretaña e Irlanda del Norte - Londres"
+ },
+ {
+  "id": 145,
+  "title": "República Árabe Siria  - Damasco"
+ },
+ {
+  "id": 146,
+  "title": "República Centroafricana - Bangui"
+ },
+ {
+  "id": 147,
+  "title": "República de Corea - Seúl"
+ }
+]

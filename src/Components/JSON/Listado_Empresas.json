@@ -1,0 +1,562 @@
+[
+ {
+  "id": 1,
+  "title": "Petróleos Mexicanos"
+ },
+ {
+  "id": 2,
+  "title": "América Movil"
+ },
+ {
+  "id": 3,
+  "title": "IMSS"
+ },
+ {
+  "id": 4,
+  "title": "Comisión Federal de Electricidad"
+ },
+ {
+  "id": 5,
+  "title": "Fomento Económico Mexicano"
+ },
+ {
+  "id": 6,
+  "title": "Grupo Bimbo"
+ },
+ {
+  "id": 7,
+  "title": "FEMCO"
+ },
+ {
+  "id": 8,
+  "title": "Alfa"
+ },
+ {
+  "id": 9,
+  "title": "Grupo México"
+ },
+ {
+  "id": 10,
+  "title": "Cemex"
+ },
+ {
+  "id": 11,
+  "title": "Grupo BAL"
+ },
+ {
+  "id": 12,
+  "title": "Americas Mining Corporation"
+ },
+ {
+  "id": 13,
+  "title": "Coppel"
+ },
+ {
+  "id": 14,
+  "title": "Grupo Financiero Banorte"
+ },
+ {
+  "id": 15,
+  "title": "Kaluz"
+ },
+ {
+  "id": 16,
+  "title": "Oxxo"
+ },
+ {
+  "id": 17,
+  "title": "Coca-Cola FEMSA"
+ },
+ {
+  "id": 18,
+  "title": "Chedraui"
+ },
+ {
+  "id": 19,
+  "title": "Arca Continental"
+ },
+ {
+  "id": 20,
+  "title": "INFONAVIT"
+ },
+ {
+  "id": 21,
+  "title": "Orbia Advance Corporation"
+ },
+ {
+  "id": 22,
+  "title": "Grupo Financiero Banamex"
+ },
+ {
+  "id": 23,
+  "title": "Grupo Salinas"
+ },
+ {
+  "id": 24,
+  "title": "Alpek"
+ },
+ {
+  "id": 25,
+  "title": "Organización Soriana"
+ },
+ {
+  "id": 26,
+  "title": "El Puerto de Liverpool"
+ },
+ {
+  "id": 27,
+  "title": "Grupo Elektra"
+ },
+ {
+  "id": 28,
+  "title": "Sigma Alimentos"
+ },
+ {
+  "id": 29,
+  "title": "ISSSTE"
+ },
+ {
+  "id": 30,
+  "title": "Grupo Carso"
+ },
+ {
+  "id": 31,
+  "title": "Industrias Peñoles"
+ },
+ {
+  "id": 32,
+  "title": "Grupo Televisa"
+ },
+ {
+  "id": 33,
+  "title": "Gruma"
+ },
+ {
+  "id": 34,
+  "title": "Grupo Modelo"
+ },
+ {
+  "id": 35,
+  "title": "Corporativo Fragua"
+ },
+ {
+  "id": 36,
+  "title": "Xignux"
+ },
+ {
+  "id": 37,
+  "title": "Mabe"
+ },
+ {
+  "id": 38,
+  "title": "Grupo Lala"
+ },
+ {
+  "id": 39,
+  "title": "Bachoco"
+ },
+ {
+  "id": 40,
+  "title": "Grupo Nacional Provincial"
+ },
+ {
+  "id": 41,
+  "title": "Nemak"
+ },
+ {
+  "id": 42,
+  "title": "Cervecería Cuauhtémoc Moctezuma"
+ },
+ {
+  "id": 43,
+  "title": "FEMCO División Salud"
+ },
+ {
+  "id": 44,
+  "title": "Banco Azteca"
+ },
+ {
+  "id": 45,
+  "title": "Tiendas Elektra"
+ },
+ {
+  "id": 46,
+  "title": "Grupo Financiero Inbursa"
+ },
+ {
+  "id": 47,
+  "title": "Industrias CH"
+ },
+ {
+  "id": 48,
+  "title": "Banobras"
+ },
+ {
+  "id": 49,
+  "title": "Fresnillo PLC"
+ },
+ {
+  "id": 50,
+  "title": "Grupo Desc"
+ },
+ {
+  "id": 51,
+  "title": "Grupo Simec"
+ },
+ {
+  "id": 52,
+  "title": "SuKarne"
+ },
+ {
+  "id": 53,
+  "title": "Sanborns"
+ },
+ {
+  "id": 54,
+  "title": "Alsea"
+ },
+ {
+  "id": 55,
+  "title": "Grupo México Transportes"
+ },
+ {
+  "id": 56,
+  "title": "Grupo Empresarial Ángeles"
+ },
+ {
+  "id": 57,
+  "title": "Grupo Villacero"
+ },
+ {
+  "id": 58,
+  "title": "Televisa Telecomunicaciones"
+ },
+ {
+  "id": 59,
+  "title": "Grupo Proeza"
+ },
+ {
+  "id": 60,
+  "title": "Kimberly-Clark de México"
+ },
+ {
+  "id": 61,
+  "title": "Altos Hornos de México"
+ },
+ {
+  "id": 62,
+  "title": "Aeroméxico"
+ },
+ {
+  "id": 63,
+  "title": "Union Pacific de México"
+ },
+ {
+  "id": 64,
+  "title": "Casa Ley"
+ },
+ {
+  "id": 65,
+  "title": "Volaris"
+ },
+ {
+  "id": 66,
+  "title": "Grupo Condumex"
+ },
+ {
+  "id": 67,
+  "title": "Viakable"
+ },
+ {
+  "id": 68,
+  "title": "Vitro"
+ },
+ {
+  "id": 69,
+  "title": "Grupo Envases Universales"
+ },
+ {
+  "id": 70,
+  "title": "Farmacias del Ahorro"
+ },
+ {
+  "id": 71,
+  "title": "DeAcero"
+ },
+ {
+  "id": 72,
+  "title": "OXXO Gas"
+ },
+ {
+  "id": 73,
+  "title": "José Cuervo"
+ },
+ {
+  "id": 74,
+  "title": "Quálitas"
+ },
+ {
+  "id": 75,
+  "title": "Palacio de Hierro"
+ },
+ {
+  "id": 76,
+  "title": "Televisa Contenidos"
+ },
+ {
+  "id": 77,
+  "title": "Grupo Ángeles Servicios de Salud"
+ },
+ {
+  "id": 78,
+  "title": "Caminos y Puentes Federales"
+ },
+ {
+  "id": 79,
+  "title": "Grupo Profuturo"
+ },
+ {
+  "id": 80,
+  "title": "Cinépolis"
+ },
+ {
+  "id": 81,
+  "title": "Seguros Banorte"
+ },
+ {
+  "id": 82,
+  "title": "La Comer"
+ },
+ {
+  "id": 83,
+  "title": "Grupo Gigante"
+ },
+ {
+  "id": 84,
+  "title": "INTERprotección"
+ },
+ {
+  "id": 85,
+  "title": "Afirme"
+ },
+ {
+  "id": 86,
+  "title": "Totalplay"
+ },
+ {
+  "id": 87,
+  "title": "Bio Pappel"
+ },
+ {
+  "id": 88,
+  "title": "Grupo Lamosa"
+ },
+ {
+  "id": 89,
+  "title": "FOVISSSTE"
+ },
+ {
+  "id": 90,
+  "title": "Grupo Herdez"
+ },
+ {
+  "id": 91,
+  "title": "Grupo Autofin"
+ },
+ {
+  "id": 92,
+  "title": "CICSA"
+ },
+ {
+  "id": 93,
+  "title": "Elementia"
+ },
+ {
+  "id": 94,
+  "title": "Gentera"
+ },
+ {
+  "id": 95,
+  "title": "Nacional Financiera"
+ },
+ {
+  "id": 96,
+  "title": "Megacable Holdings"
+ },
+ {
+  "id": 97,
+  "title": "Alpura"
+ },
+ {
+  "id": 98,
+  "title": "Prolec"
+ },
+ {
+  "id": 99,
+  "title": "Banco del Bajío"
+ },
+ {
+  "id": 100,
+  "title": "Sky"
+ },
+ {
+  "id": 101,
+  "title": "Walmart de México y Centroamérica"
+ },
+ {
+  "id": 102,
+  "title": "General Motors de México"
+ },
+ {
+  "id": 103,
+  "title": "BBVA de México"
+ },
+ {
+  "id": 104,
+  "title": "Stellantis México"
+ },
+ {
+  "id": 105,
+  "title": "Banco Nacional de México"
+ },
+ {
+  "id": 106,
+  "title": "Nissan Mexicana"
+ },
+ {
+  "id": 107,
+  "title": "Ford de México"
+ },
+ {
+  "id": 108,
+  "title": "Volkswagen de México"
+ },
+ {
+  "id": 109,
+  "title": "Sam's Club"
+ },
+ {
+  "id": 110,
+  "title": "Banco Santander de México"
+ },
+ {
+  "id": 111,
+  "title": "Honda de México"
+ },
+ {
+  "id": 112,
+  "title": "Toyota Motor Sales de México"
+ },
+ {
+  "id": 113,
+  "title": "KIA Motors México"
+ },
+ {
+  "id": 114,
+  "title": "Ternium México"
+ },
+ {
+  "id": 115,
+  "title": "Jabil Circuit de México"
+ },
+ {
+  "id": 116,
+  "title": "Grupo Modelo AB-InBev"
+ },
+ {
+  "id": 117,
+  "title": "Flextronics Manufacturing México"
+ },
+ {
+  "id": 118,
+  "title": "PepsiCo Alimentos México"
+ },
+ {
+  "id": 119,
+  "title": "Samsung México"
+ },
+ {
+  "id": 120,
+  "title": "Cervecería Cuauhtémoc Moctezuma"
+ },
+ {
+  "id": 121,
+  "title": "Continental de México"
+ },
+ {
+  "id": 122,
+  "title": "HSBC México"
+ },
+ {
+  "id": 123,
+  "title": "Magna International México"
+ },
+ {
+  "id": 124,
+  "title": "Nestlé México"
+ },
+ {
+  "id": 125,
+  "title": "Iberdrola México"
+ },
+ {
+  "id": 126,
+  "title": "AT&T México"
+ },
+ {
+  "id": 127,
+  "title": "Scotiabank"
+ },
+ {
+  "id": 128,
+  "title": "Robert Bosch México"
+ },
+ {
+  "id": 129,
+  "title": "MetLife México"
+ },
+ {
+  "id": 130,
+  "title": "Costco México"
+ },
+ {
+  "id": 131,
+  "title": "Lear Corporation México"
+ },
+ {
+  "id": 132,
+  "title": "Archer Daniels Midland México"
+ },
+ {
+  "id": 133,
+  "title": "The Home Depot México"
+ },
+ {
+  "id": 134,
+  "title": "Sanmina-SCI de México"
+ },
+ {
+  "id": 135,
+  "title": "P&G México"
+ },
+ {
+  "id": 136,
+  "title": "Adient México"
+ },
+ {
+  "id": 137,
+  "title": "AXA México"
+ },
+ {
+  "id": 138,
+  "title": "American Axle Manufacturing de México"
+ },
+ {
+  "id": 139,
+  "title": "ArcelorMittal México"
+ },
+ {
+  "id": 140,
+  "title": "H-E-B México"
+ }
+]
