@@ -8,7 +8,7 @@ A search bar was made that contains several categories where you can search for 
 ### Links
 
 - Solution URL: https://github.com/lizSilva27/BarraBusqueda-useMemo-React
-- Live Site URL: 
+- Live Site URL: https://searchbar-react.netlify.app
 
 ## Author
 
